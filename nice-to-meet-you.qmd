@@ -1,11 +1,56 @@
 ---
-title: "nice-to-meet-you"
+title: "Nice to meet you !"
+subtitle: "I am Rim Aboulaasri"
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    #logo: images/quarto.png
+    #css: styles.css
+    #footer: <https://quarto.org>
+#resources:
+  #- demo.pdf
 ---
 
-## Quarto
+## Slide 1
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+- Young data scientist , passionate about ... (catch phrase)
+- France Maroc
+- 
 
-```{r}
-1 + 1
-```
+## Slide 2 - Overview de mon parcours
+
+- Frise chronologique , parcours (diplome, stage, job, demenagement USA)
+
+## Slide 3 - Education
+
+- Double diplome
+- Doubles compétences : aller au delas des resultats, interpretations ...
+
+## Slide 4 - Internship
+
+## Slide 5 - Travail Chanel intersection métier et data , monde des Neurosciences
+
+- reprendre CV missions
+
+
+## Slide 6 - Exemple de projets ou questions
+
+Tester l impact des produits , compétences stats et data ...
+- Sensory 
+- Consummer sciences
+- Challenges
+
+## Slide 7 - Aspect technique - outils
+- languages
+- 
+
+## Slide 8 - Softs skills
+
+## Slide 9 - Things to know about me
+
+## Slide 10 - Merci
+
+
